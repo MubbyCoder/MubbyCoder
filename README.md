@@ -2,9 +2,9 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React.js and Node.Js
 - 💞️ I’m looking to collaborate on different projects and be a pro.
-- 📫 How to reach me via email - kazephyrr@gmail.com, via twitter -- @kazephyrian
+- 📫 How to reach me via email - kazephyrr@gmail.com, via twitter -- @mubbymusicc
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...im fun to work with and enjoy learning always eage to know more.
+- ⚡ Fun fact: ...im fun to work wih, enjoy learning and always eager to learn & know more.
 
 <!---
 MubbyCoder/MubbyCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
